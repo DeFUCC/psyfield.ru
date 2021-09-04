@@ -1,0 +1,1 @@
+import{o as t,d as e}from"./motion.c5241249.js";const r='{"title":"Карточки","description":"","frontmatter":{"title":"Карточки","list":"cards"},"relativePath":"cards/index.md","lastUpdated":1622481044350}',a={};a.render=function(r,a,d,i,o,s){return t(),e("div")};export{r as __pageData,a as default};
